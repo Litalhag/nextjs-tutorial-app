@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📝 Next.js Tutorial App
 
-## Getting Started
+This is a simple Next.js app built as part of a learning exercise.  
+It uses modern Next.js features like the **App Router**, **Server Components**, and **Prisma ORM** for working with a database.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✅ Add and display tasks
+- ✅ Edit tasks
+- ✅ Delete tasks
+- ✅ Store tasks in a SQLite database using Prisma
+- ✅ Server Actions (Next.js 14+)
+- ✅ Tailwind CSS for styling
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️ Tech Stack
 
-## Learn More
+- [Next.js 14](https://nextjs.org/)
+- [React 18](https://react.dev/)
+- [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html) (for local dev)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Image](https://github.com/user-attachments/assets/b612858b-1aec-4655-8245-592de8882f70)
+![Image](https://github.com/user-attachments/assets/6c19ca79-d9f9-4aa9-8f9e-eafe15a63a18)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Image](https://github.com/user-attachments/assets/fe6f75c6-9bc0-4849-bd0e-b0aa6d48faef)
+![Image](https://github.com/user-attachments/assets/dc04928b-e9d7-48b2-944b-56b58d043dc8)
